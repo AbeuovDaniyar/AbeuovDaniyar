@@ -6,7 +6,7 @@
 - :school: I am a `Senior` at Grand Canyon University
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Programming` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://github.com/AbeuovDaniyar/AbeuovDaniyar/blob/master/Daniyar%20Abeuov%20Resume.pdf).
 - :nerd_face: Always `learning new things`
 
 <br/>
